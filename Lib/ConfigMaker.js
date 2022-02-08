@@ -107,12 +107,12 @@ class ConfigMaker {
                             "COMMANDS_KICK" : "ROLE_MODERATOR",
                             "COMMAND_FIND" : "ROLE_MODERATOR",
                             "COMMAND_SETROLE" : "ROLE_ADMIN",
-                            "COMMAND_TP" : "ROLE_ADMIN",
+                            "COMMAND_TP" : "ROLE_MODERATOR",
                             "COMMAND_RCON" : "ROLE_OWNER",
                             "COMMAND_TOKEN" : "ROLE_MODERATOR",
                             "COMMAND_BAN" : "ROLE_MODERATOR",
                             "COMMAND_CHANGE_INFO" : "ROLE_ADMIN",
-                            "COMMAND_MAP": "ROLE_ADMIN"
+                            "COMMAND_MAP": "ROLE_MODERATOR"
                         },
                         "Roles" : {
                             "ROLE_BANNED" : "Banned",

@@ -110,7 +110,7 @@ class Plugin {
         this.Server.on('dvars_loaded', this.init.bind(this))
     }
     init() {
-        if (this.Server.Gamename != 'IW5') {
+        if (this.Server.Gamename != 'IW5' || 'T6') {
             return
         }
 
